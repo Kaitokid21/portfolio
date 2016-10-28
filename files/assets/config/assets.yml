@@ -1,0 +1,4 @@
+stylesheets:
+  application: 'admin,font-awesome.min,linea,animate,style,adjust,light'
+javascripts:
+  application: '*'

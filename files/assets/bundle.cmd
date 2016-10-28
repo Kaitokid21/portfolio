@@ -1,0 +1,1 @@
+assetspkg --root="/" --css-source="/css" --js-source="/js"
